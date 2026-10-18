@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.db
+secret.key
+app.pid
+app.log
+cache/
